@@ -1,0 +1,4 @@
+body { background: #f8f9fa; }
+.card-img-top { height: 220px; object-fit: cover; }
+#map, .map-box { height: 360px; border-radius: 12px; }
+.badge-status { font-size: 0.9rem; }
